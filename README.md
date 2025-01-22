@@ -7,7 +7,7 @@
 <h2 align="left"> :clipboard: Etapas do Projeto </h2>
 
 <li> <b> Instalação das Bibliotecas Sqlite3, Tkinter, Pandas; </b> </li>
-<li> <b> Script de Criação da Interface (Front-End); </b> </li>
+<li> <b> Script de Criação da Interface (Front-End), Graphical User Interface | GUI; </b> </li>
 <li> <b> Script de Backend, que conecta Python com SQLite3, com funções de SQL; </b> </li>
 <li> <b> Script de junção de Front-End com Back-End, criando um App. </b> </li>
 <br>
