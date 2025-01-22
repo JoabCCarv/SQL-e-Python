@@ -1,4 +1,4 @@
-<h1 align="center"> :bar_chart: SQL-e-Pythone </h1>
+<h1 align="center"> :bar_chart: SQL-e-Python </h1>
 
 <p align="justify">
   Neste repositório contém um projeto pessoal que consiste em elaborar uma conexão entre SQLite3 e Python.
